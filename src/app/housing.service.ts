@@ -66,8 +66,8 @@ export class HousingService {
           error => {
           }
         );
-    }*/
-
+    }
+  */
   //constructor(public http: HttpClient) { }
 
   constructor() { }
